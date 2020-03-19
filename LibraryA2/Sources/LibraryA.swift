@@ -5,6 +5,8 @@ public struct LibraryA {
     }
     
     public func printMyName() {
-        print("I'm Library AAA")
+        print("I'm Library Aliz")
     }
+    
+    public let text:String = "Hello, World!"
 }
